@@ -34,3 +34,10 @@ i.e.
 #### UML / Application Wiring Diagram
 
 Link to an image of the UML for your application and response to events
+
+
+What is the root URL to your API?
+What are the routes?
+What inputs do they require?
+What output do they return?
+
